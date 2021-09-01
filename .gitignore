@@ -70,3 +70,8 @@ data/logs/debug.log
 /vendor
 /composer.lock
 /.phpunit.result.cache
+composer.json
+composer.json.bak
+phpunit.cmd
+.vscode/launch.json
+composer.phar
